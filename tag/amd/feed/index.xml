@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>amd &#8211; ZOETCH</title>
+	<atom:link href="/tag/amd/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>berita seputar technology</description>
+	<lastBuildDate>Thu, 01 Feb 2024 06:35:28 +0000</lastBuildDate>
+	<language>id</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Bocoran Spesifikasi AMD Ryzen 9000, Pakai Zen 5</title>
+		<link>/2024/02/bocoran-spesifikasi-amd-ryzen-9000-pakai-zen-5</link>
+					<comments>/2024/02/bocoran-spesifikasi-amd-ryzen-9000-pakai-zen-5#respond</comments>
+		
+		<dc:creator><![CDATA[ini-sapa-njir]]></dc:creator>
+		<pubDate>Thu, 01 Feb 2024 06:33:21 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[amd]]></category>
+		<category><![CDATA[rayzen]]></category>
+		<guid isPermaLink="false">/?p=611</guid>
+
+					<description><![CDATA[Jakarta &#8211; AMD sudah pernah mengungkap sejumlah spesifikasi untuk prosesor desktop terbarunya, yaitu Ryzen 9000...]]></description>
+										<content:encoded><![CDATA[
+<p>Jakarta &#8211; AMD sudah pernah mengungkap sejumlah spesifikasi untuk prosesor desktop terbarunya, yaitu Ryzen 9000 series. Kini bocorannya semakin komplit.<br>Sebelumnya AMD memastikan Ryzen 9000 Granite Ridge akan memakai core dengan arsitektur Zen 5, menggunakan socket AM5, dan kompatibel dengan motherboard seri 600. Kini muncul bocoran lebih lengkap, termasuk kemungkinan waktu peluncurannya.</p>
+
+
+
+<p>Bocoran itu berasal dari akun @highyieldYT di X, yang menyebut Ryzen 9000 kemungkinan akan dirilis antara April hingga Juni 2024. Ia pun mengungkap prosesor tersebut akan menggunakan desain chiplet on package seperti Zen 2/3/4, dan menggunakan ukuran IO-die seperti Zen 4.</p>
+
+
+
+<p>Produksinya akan memakai proses N4 TSMC dengan fabrikasi 4nm, yang akan meningkatkan performa instruction per cycle (IPC) sebesar 10%. Artinya, meski punya clock speed dan jumlah core sama dengan Ryzen 7000, performanya akan lebih baik. Prosesor ini juga akan mendukung RAM DDR5-6400.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="682" src="/wp-content/uploads/2024/02/amd1-1024x682.jpg" alt="" class="wp-image-613" srcset="/wp-content/uploads/2024/02/amd1-1024x682.jpg 1024w, /wp-content/uploads/2024/02/amd1-300x200.jpg 300w, /wp-content/uploads/2024/02/amd1-768x512.jpg 768w, /wp-content/uploads/2024/02/amd1-1536x1024.jpg 1536w, /wp-content/uploads/2024/02/amd1.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>CPU Ryzen 9000 disebut akan mempunyai jumlah core antara 6 hingga 16, termasuk chip grafis terintegrasi antara RDNA 2 atau RDNA 3,5. Thermal design power (TDP)-nya berkisar antara 65 hingga 170 watt karena AMD disebut mau menyeimbangkan performa dan efisiensi daya Granite Ridge.</p>
+
+
+
+<p>Belum jelas apakah AMD akan memperkenalkan varian 9000X3D yang punya teknologi 3D V-Cache saat mereka merilis Ryzen 9000. Namun langkah ini diprediksi bisa memperkuat keunggulan mereka dari Intel, terutama di ranah PC rakitan.</p>
+
+
+
+<p>Sebagai informasi, AMD pertama merilis prosesor dengan 3D V-Cache untuk desktop pada 2022, yaitu lewat Ryzen 7 5800X3D, dan diikutidengan peluncuran Ryzen 9 7945HX3D untuk laptop pada 2023, demikian dikutip detikINET dari Techspot, Senin (29/1/2024).</p>
+
+
+
+<p>Granite Ridge ini diperkirakan akan menjadi pesaing Intel Arrow Lake-S, prosesor desktop Intel yang kabarnya bakal dirilis pada September-Oktober 2024</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/02/bocoran-spesifikasi-amd-ryzen-9000-pakai-zen-5/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
